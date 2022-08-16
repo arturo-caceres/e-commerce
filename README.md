@@ -1,8 +1,5 @@
 # React e-commerce
 
-## Purpose
-
-
 ## Purpose 
 
 The purpose of this project is to reinforce React learnings, Fetching data, react-router-dom and use Firebase/Firestore.
