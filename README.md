@@ -4,9 +4,21 @@
 
 The purpose of this project is to reinforce React learnings, Fetching data, react-router-dom and use Firebase/Firestore.
 
-## MVP
+## Tech stack
+- **React**
+- **HTML** 
+- **SCSS** 
+- **Firebase**
+- **Firestore**
 
-At a minimum your e-shop website should have two pages:
+## Challenges
+
+Able to connect to Firebase was a challenge I had to overcome. After reading the documentation and applying all knowledge learnt, I was able to connect my react app to Firebase and FireStore.
+
+
+## MVP of the project
+
+ E-shop website should have two pages:
 
 -   Home Page
     -   This will contain:
